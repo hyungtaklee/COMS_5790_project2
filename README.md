@@ -39,6 +39,6 @@ explicit = true
 ```
 
 ## Run the program
-uv run main.py --test --model_name="bert-base-uncased-82"
+uv run main.py --test --model_name="bert-base-uncased-82" (Please run in /work/classtmp/htlee/coms5790-project2 on Nova)
 
 
